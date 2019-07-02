@@ -1,0 +1,295 @@
+@import url(font/faw321/font-awesome.css);
+@import url(font/faw4/font-awesome.css);
+@import url(font/os/stylesheet.css);
+@import url(font/osc/stylesheet.css);
+@import url(font/faw/font-awesome.css);
+@import url(font/os/stylesheet.css);
+@import url(font/osc/stylesheet.css);
+
+body,.trainingResults .mbHeader div.point.test,#trainingResultList .badge1,.trainingResults .mbHeader div.name.test,.trainingResults .mbHeader div.badge.test,.trainingResults .mbHeader div.point.test,.trainingElement .caption .name,.trainingElement .caption .author,.trainingElement .btn,.loggedinName,#slidesArea>h3,#templatesArea>h3,#editableArea>h3,#mediaBox>h3,body.guest .circle .text,.CorporateBrand,#registrationMessage.alert.alert-success,#logForm h4,h4.auth,.colHeader,.colHeaderNoBorder,.functionHeader,.btn-dark,.btn-danger,.btn-success,.contentHeader,#bc,#bc span,.errormessage h1,table caption {
+font-family:OpenSans,sans-serif;
+}
+
+html {
+font-size:12px;
+-webkit-text-size-adjust:14px;
+-ms-text-size-adjust:14px;
+}
+
+body:first-line {
+line-height:120%;
+}
+
+body.guest .preselect .functionHeader h3 {
+font-size:20px;
+line-height:30px;
+}
+
+body.guest .preselect .functionHeader p {
+font-size:12px;
+line-height:20px;
+}
+
+body.guest .circle .text {
+font-size:140%;
+}
+
+.loggedinName {
+font-size:120%;
+}
+
+.CorporateBrand a {
+font-size:160%;
+}
+
+.functionHeader {
+font-size:14px;
+line-height:34px;
+}
+
+.trainingResults .mbHeader div.point.test {
+font-size:22px;
+}
+
+.trainingElement .caption .author,.trainingElement .btn {
+font-size:80%;
+}
+
+#fileList .caption .name {
+font-size:11px;
+}
+
+#myMediaList .mediaElement .caption {
+font-size:10px;
+line-height:12px;
+}
+
+.mediaBox .mediaElement .caption {
+font-size:9px;
+}
+
+.thumbnail .caption {
+font-size:75%;
+}
+
+.thumbnail .caption .btn {
+font-size:95%;
+}
+
+#slidesArea>h3,#templatesArea>h3,#editableArea>h3,#mediaBox>h3 {
+font-size:24px;
+}
+
+.slideElement .rightSide .name {
+font-size:10px;
+line-height:11px;
+}
+
+.slideElement .leftSide font {
+font-size:3px!important;
+line-height:3px!important;
+}
+
+.slideElement .leftSide .textClass ul li {
+font-size:4px!important;
+line-height:31%;
+margin:0;
+}
+
+.slideElement .trafficData .badge {
+font-size:62.5%;
+}
+
+.slideElement .rightSide {
+font-size:8px;
+}
+
+#editorArea .big-checkbox:checked+label:after,.tools .big-checkbox:checked+label:after {
+font-size:28px;
+}
+
+ul.sortableForm .holder input {
+font-size:120%;
+line-height:100%;
+}
+
+#sortingIconBar i,#editorTopBar i {
+font-size:13px;
+}
+
+#uploadCover,#clearCover {
+font-size:26px;
+}
+
+.summaryzedData h1,.pointSelector .functionHeader {
+font-size:50px;
+}
+
+.trainingHolder .slideElement .rightSide .name {
+font-size:100%;
+line-height:100%;
+}
+
+.fontSize72 {
+font-size:72px;
+line-height:82px;
+}
+
+.fontSize48 {
+font-size:48px;
+line-height:58px;
+}
+
+.fontSize36 {
+font-size:36px;
+line-height:46px;
+}
+
+.fontSize32 {
+font-size:32px;
+line-height:42px;
+}
+
+.fontSize24 {
+font-size:24px;
+line-height:34px;
+}
+
+.fontSize22 {
+font-size:22px;
+line-height:30px;
+}
+
+.fontSize20 {
+font-size:20px;
+line-height:28px;
+}
+
+.fontSize16 {
+font-size:16px;
+line-height:22px;
+}
+
+.fontSize14 {
+font-size:14px;
+line-height:20px;
+}
+
+.fontSize12 {
+font-size:12px;
+line-height:16px;
+}
+
+.icon-64 {
+width:40px;
+height:40px;
+font-size:30px;
+line-height:40px;
+padding:12px;
+}
+
+.icon-square,.icon-rounded,.icon-plain,.icon-circled {
+display:inline-block!important;
+text-align:center!important;
+color:#fff;
+width:18px;
+height:18px;
+font-size:12px;
+line-height:18px;
+text-shadow:none;
+cursor:pointer;
+margin:10px 10px 10px 0;
+padding:3px;
+}
+
+body,.CorporateBrand span,.btn-dark,.btn-danger,.btn-success,.btn-trans,label,input,button,select,textarea,.card h4,#newuser label,#newuser input,#newuser button,#newuser select,#newuser textarea,.userDataRow .span8.small button,.input-append input,.input-prepend input,.input-append select,.input-prepend select,.input-append .uneditable-input,.input-prepend .uneditable-input,.input-append .dropdown-menu,.input-prepend .dropdown-menu,.input-append .popover,.input-prepend .popover {
+font-size:12px;
+}
+
+.modal-body,.message,.CorporateName,#editorBottomBar,.trainingdata {
+font-size:87.5%;
+}
+
+.contentHeader,.trainingResults .mbHeader div.badge.test,#editorArea .regular-radio:checked+label:after,.tools .regular-radio:checked+label:after {
+font-size:32px;
+}
+
+.colHeader h3,.modal-header.functionHeader h3 {
+font-size:16px;
+line-height:34px;
+}
+
+.selectMenu.btn-dark,.selectMenu.btn-danger,.selectMenu.btn-success,.modal-header.functionHeader .close,.trainingResults .mbHeader div.name.test,.card h3,#myUsersListHeader,.optionBar span,#editorArea .regular-checkbox:checked+label:after,.tools .regular-checkbox:checked+label:after,#myTrainingsListHeader {
+font-size:14px;
+}
+
+.badge,.mbHeader div.name,.slideElement .rightSide .badge,.trainingdataRow,.trainingdataRow .form-horizontal input,.trainingdataRow .form-horizontal .controls.input-append .add-on i,.trainingdataRow form label,.trainingdataRow form input,.trainingdataRow form select,.trainingdataRow form textarea {
+font-size:10px;
+}
+
+.trainingElement .caption .name,table caption,.dropdown-menu li.newForm label,#editorTopBar .btn-group>.btn i,#editorTopBar .btn-group>.dropdown-menu i {
+font-size:16px;
+}
+
+span.icon-remove,.card .icon-arrow-right,.card .icon-arrow-left,#editorArea ul.sortableForm .holder .btn-dark .icon-move {
+font-size:20px;
+}
+
+#content .thumbnail .caption,#content .thumbnail p {
+font-size:90%;
+}
+
+.slideElement .leftSide .textClass input,.slideElement .leftSide .textClass select,.slideElement .leftSide .textClass label,.slideElement .leftSide .textClass textarea {
+font-size:4px!important;
+line-height:1%;
+}
+
+@mediamin-width1200px{
+body {
+font-size:13px;
+}
+
+.colHeader h3 {
+font-size:20px;
+line-height:34px;
+}
+
+.functionHeader {
+font-size:16px;
+line-height:34px;
+}
+
+.trainingElement .caption .author,.trainingElement .btn {
+font-size:87.5%;
+}
+
+.optionBar span {
+font-size:20px;
+}
+
+.thumbnail .caption {
+font-size:85%;
+}
+
+.slideElement .rightSide .name {
+font-size:120%;
+line-height:100%;
+}
+
+.trainingHolder .slideElement .rightSide .name {
+font-size:110%;
+line-height:100%;
+}
+
+.btn-group>.btn,.btn-group>.dropdown-menu,.btn-dark,.btn-danger,.btn-success,.mbHeader div.name,#myMediaList .mediaElement .caption,.slideElement .trafficData .badge,#editorTopBar .btn-group>.btn,#editorTopBar .btn-group>.dropdown-menu,#sortingIconBar i,#editorTopBar i {
+font-size:12px;
+}
+
+.dropdown-menu li a,label,input,button,select,textarea {
+font-size:14px;
+}
+
+.summaryzedData h1,.pointSelector .functionHeader {
+font-size:60px;
+}
+}
